@@ -10,3 +10,7 @@
     background-color: yellow;
     color: black;
 }
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}

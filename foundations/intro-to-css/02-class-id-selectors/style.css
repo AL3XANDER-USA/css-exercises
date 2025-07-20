@@ -1,6 +1,6 @@
 .el1, .el3, .el5{
     background-color: pink;
-    font-family: "Verdana" "DejaVu" serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #el2{
     color: blue;
